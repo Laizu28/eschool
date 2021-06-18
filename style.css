@@ -1,0 +1,29 @@
+nav a{
+    font-size: 22px;
+    font-weight: 600;
+}
+.container{
+    padding-bottom: 50px;
+}
+.card-group{
+    margin-top: 30px;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    border:none;
+    background-color: white;
+}
+.white{
+    background: white;
+    box-shadow:5px 5px 10px lightgray;
+
+}
+.little{
+    width:30px;
+}
+.little2{
+    width:30px;
+}
+.man {width:120px;}
